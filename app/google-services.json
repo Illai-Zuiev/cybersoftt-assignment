@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14384095988",
+    "project_id": "assignment-28ee9",
+    "storage_bucket": "assignment-28ee9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14384095988:android:e48c23615f239f3a1174a1",
+        "android_client_info": {
+          "package_name": "cybearsoftt.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGyXrkdWXBHJoINXJRmiw6fiLQ_8e7Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
